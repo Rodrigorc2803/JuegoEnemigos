@@ -1,0 +1,2 @@
+C:\Users\PC\source\repos\Player_tarea\Player_tarea\obj\Debug\Player_tarea.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Player_tarea\Player_tarea\obj\Debug\Player_tarea.csproj.CoreCompileInputs.cache
